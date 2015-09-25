@@ -1,0 +1,55 @@
+body {
+margin:0;
+padding:0;
+color:#43857C;
+background:#2C4770;
+font-family: "Arial Black", silver;
+}
+
+
+tr:nth-child(even) {
+
+    background: #0000ff;
+}
+
+
+p:first-of-type { 
+    color: #D1686D;
+}
+
+li:nth-child(2) {
+	color: silver;
+}
+
+a:hover{
+
+background-color: yellow;
+
+}
+
+.han {
+	color: red;
+	font-size: 25px;
+	text-decoration: underline;
+}
+
+.yo {
+
+	color: white;
+	font-size: 50px;
+	text-decoration: line-through;
+}
+
+.blue {
+
+	color: blue;
+	font-size: 25px;
+	text-decoration: underline;
+}
+
+.red {
+color: black;
+font-size: 15px;
+text-decoration: overline;
+
+}
