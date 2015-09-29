@@ -1,0 +1,91 @@
+body {
+
+font-size: 1.5em;
+line-height: 2;
+font-family: "Comic Sans MS", cursive, sans-serif;
+color: #D3D3D3;
+background-color: #5D646D;
+width: 1000;
+margin: 0 auto;
+
+}
+
+h1 {
+
+background-color: #0E5050;
+padding-left: 20px;
+
+}
+
+h2 {
+
+background-color: #182A5A;
+padding-left: 20px;
+}
+
+h3 {
+
+background-color: #AD3A3A;
+padding-left: 20px;
+}
+
+.container {
+padding-left: 200px;
+float: center;
+
+width: 70%;
+
+}
+
+.container p {
+
+
+padding-left: 20px;
+
+}
+
+
+.container2 p {
+
+
+padding-left: 20px;
+
+}
+
+
+
+.container3 p {
+
+
+padding-left: 20px;
+
+}
+
+
+.container2 {
+
+float: left;
+display: inline;
+width: 40%;
+
+
+}
+
+.container3 {
+
+float: right;
+display: inline;
+width: 40%;
+
+
+}
+
+p {
+
+background-color: #0C0C0C;
+
+
+}
+
+
+
