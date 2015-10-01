@@ -1,0 +1,26 @@
+body {
+	width: 80%;
+	margin:0 auto;
+	padding-left: 20px;
+    background: #BABABA;
+    color: #0A0908;
+    font-size: 18px;
+	font-family: "Comic Sans MS", cursive, sans-serif,;
+}
+
+table, tr, td, th {
+  border-collapse: collapse;
+  border: 5px solid black;
+  
+  
+}
+
+.bacon-info {
+    background: #AF251E;
+    color: #0A0908;
+}
+
+.bacon-answer {
+    color: white;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+}
