@@ -1,52 +1,61 @@
-
 body,
 html {
 margin:0;
 padding:0;
 color:#000;
 background:#336633;
+font-family:Arial;
+
 
 }
 
-#wrap {
+.wrap {
 width:900px;
 margin:0 auto;
 background:#999966;
+
 }
 
-#header {
-padding:5px 10px;
+.header {
+font-size: 20px;
+float: right;
+padding:20px 35px;
 background:#999966;
 }
 
 h1 {
-margin:5;
+
+margin:5px;
+
 }
 
 
-#nav {
-padding:5px 10px;
+.nav {
+padding:12px 10px;
 background:#339933;
+clear: both;
 }
 
-#nav ul {
+.nav ul {
 margin:0;
 padding:0;
 list-style:none;
 }
-#nav li {
+.nav li {
+
 display: inline;
 margin:0;
-padding-left: 30px;
+padding-left: 50px;
 }
 
 
 
-#content {
-padding:10px;
-float:left;
-width:650px;
-background:#339966;
+.content {
+padding: 10px;
+float: left;
+width: 650px;
+background: #339966;
+height:580px;
 }
 
 h2 {
@@ -54,23 +63,38 @@ margin:0 0 1em;
 }
 
 
-#content li {
+.content li {
 display:inline;
+font-size: 25px;
+margin:0 auto;
 }
 
-#sidebar {
+.content p {
+padding-left: 7px;
+font-size: 19px;
+}
+
+.sidebar {
 padding:10px;
-float:right;
-width:250px;
+float: right;
+
+width:200px;
 background:#999966;
+height:580px;
 }
 
-#footer {
+.footer {
 padding:5px 10px;
 clear:both;
 background:#339933;
 }
 
-#footer p {
+.footer p {
 margin:0;
+}
+
+.content h1 {
+
+font-family: Arial Black;
+
 }
