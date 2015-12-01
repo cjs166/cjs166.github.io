@@ -1,0 +1,96 @@
+p {
+
+  padding-left: 10px ;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  font-size:22px;
+ 
+  display: none;
+  float: left;
+  margin-top: 20px;
+  margin-bottom: 25px;
+  margin-right: 10px;
+  margin-left: 15px;
+}
+
+
+
+
+
+
+
+body {
+
+background: #246D5F;
+
+}
+  
+  .fact1  p{
+	display: block ;
+	
+    }
+  
+  
+  @media (max-width:1000px) {
+ 
+  body {
+
+background: #4C678C;
+
+}
+  
+  .fact2 p{
+	display: block;
+    
+  }
+  
+  @media(max-width:840px) {
+  
+  body {
+
+background: #C7363D;
+
+}
+  
+  .fact3 p{
+	display: block;
+    
+  }
+  
+  @media (max-width:670px) {
+  
+  body {
+
+background: #E8DA43;
+
+}
+  
+  .fact4 p {
+	display: block;
+    
+  }
+  
+  @media(max-width:510px) {
+  
+  body {
+
+background: #3F9531;
+
+}
+  
+   .fact5 p {
+	display: block;
+   
+  }
+  
+  @media (max-width: 350px) {
+  
+  body {
+
+background: #686868;
+
+}
+  
+  .fact6  p {
+	display: block;
+    
+  }
